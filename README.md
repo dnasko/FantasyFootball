@@ -9,8 +9,8 @@ Contents
 1. [List of Fantasy Football Super Bowl Champions] (fantasy-football-super-bowl-championship)
 2. [2015 Year in review] (2015-year-in-review)
 3. [2014 Year in review] (2014-year-in-review)
-  1 [Yuengling Conference] (yuengling-conference)
-  2 [Cheesesteak Conference] (cheesesteak-conference)
+  1. [Yuengling Conference] (yuengling-conference)
+  2. [Cheesesteak Conference] (cheesesteak-conference)
 4. [2013 Year in review] (year-in-review)
 5. [Notes] (notes)
 
