@@ -35,11 +35,21 @@ Blah.
 
 Yuengling Conference
 --------------------
-Blah.
+
+Champion - Scramble
+-------------------
+
+
+
+
 
 Cheesesteak Conference
 ----------------------
-Blah.
+
+Champion - GREEN BAY PACKERS
+----------------------------
+
+
 
 2013 Year in review
 ===================
@@ -47,7 +57,24 @@ Blah.
 Champion - Joe Buck Yourself
 ----------------------------
 ![alt text](./images/joe_buck_yourself_logo.jpg "Joe Buck Yourself")
-![alt text](https://github.com/dnasko/FantasyFootball/images/joe_buck_yourself_logo.jpg "Joe Buck Yourself")
+
+| Player            | Pos. | Team | Fantasy |
+|-------------------|------|------|---------|
+| Matthew Stafford  | QB   | DET  | 365.40  |
+| Nick Foles        | QB   | PHL  | 303.05  |
+| Matt Forte        | RB   | CHI  | 278.30  |
+| DeMarco Murray    | RB   | DAL  | 214.40  |
+| Darren Sproles    | RB   | NO   | 105.40  |
+| Dez Bryant        | WR   | DAL  | 211.40  |
+| Eric Decker       | WR   | DEN  | 207.80  |
+| Brian Hartline    | WR   | MIA  | 131.60  |
+| Alshon Jeffery    | WR   | CHI  | 215.60  |
+| Roddy White       | WR   | ATL  |  93.10  |
+| Charles Clay      | TE   | MIA  | 122.40  |
+| Dan Carpenter     | K    | BUF  | 148.00  |
+| Stephen Gostokski | K    | NE   | 177.00  |
+| Cleveland         | DEF  | CLE  | 114.00  |
+| Green Bay         | DEF  | GB   | 108.00  |
 
 
 Notes
