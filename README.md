@@ -36,8 +36,9 @@ Blah.
 Yuengling Conference
 --------------------
 
-Champion - Scramble
+Champion - Scrambles
 -------------------
+![alt text](./images/scrambles_logo.jpg "Scrambles")
 
 
 
