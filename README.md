@@ -31,13 +31,13 @@ Blah.
 
 2014 Year in review
 ===================
-Blah.
+Becasue we didn't want to have a 14-man league in 2014 we split the league into two conferences: Yuengling Conference and Cheesesteak Conference. This wasn't actually a great idea, as having 8-man leagues made getting good players too easy.
 
 Yuengling Conference
 --------------------
 
-Champion - Scrambles
--------------------
+Champion - Scrambles (Jess)
+--------------------
 ![alt text](./images/scrambles_logo.png "Scrambles")
 
 | Player                | Pos. | Team | Fantasy |
@@ -61,7 +61,7 @@ Champion - Scrambles
 Cheesesteak Conference
 ----------------------
 
-Champion - GREEN BAY PACKERS
+Champion - GREEN BAY PACKERS (Andrew)
 ----------------------------
 ![alt text](./images/green_bay_packers_logo.png "GREEN BAY PACKERS")
 
@@ -69,7 +69,7 @@ Champion - GREEN BAY PACKERS
 2013 Year in review
 ===================
 
-Champion - Joe Buck Yourself
+Champion - Joe Buck Yourself (Cindy)
 ----------------------------
 ![alt text](./images/joe_buck_yourself_logo.jpg "Joe Buck Yourself")
 
