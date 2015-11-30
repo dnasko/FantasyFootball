@@ -2,6 +2,8 @@
 
 This humble README will act as the written archive of Fantasy Football league results. Indeed, Yahoo keeps track of this sort of thing, but because these results span different leagues I though it would be more convenient to pull them all together here.
 
+### Contents
+
 1. List of Fantasy Football Super Bowl Champions
 2. 2015 Year in review
 3. 2014 Year in review
