@@ -46,6 +46,7 @@ Blah.
 
 Champion - Joe Buck Yourself
 ----------------------------
+![alt text](./images/joe_buck_yourself_logo.jpg "Joe Buck Yourself")
 ![alt text](https://github.com/dnasko/FantasyFootball/images/joe_buck_yourself_logo.jpg "Joe Buck Yourself")
 
 
