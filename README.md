@@ -44,14 +44,14 @@ Champion - Scrambles
 |-----------------------|------|------|---------|
 | Matt Ryan             | QB   | ATL  | 366.20	|
 | Matt Asiata           | RB   | MIN  | 150.20  |
+| Eddie Lacy            | RB   | GB   | 242.60  |
 | Joique Bell           | RB   | DET  | 164.20  |
 | Giovani Bernard       | RB   | CIN  | 147.90	|
-| Eddie Lacy            | RB   | GB   | 242.60	|
 | Trent Richardson      | RB   | IND  |  90.80	|
+| Demaryius Thomas      | WR   | DEN  | 262.90  |
 | Anquan Boldin         | WR   | SF   | 139.60	|
 | Alshon Jeffery        | WR   | CHI  | 185.60	|
 | Cordarrelle Patterson | WR   | MIN  |  63.10	|
-| Demaryius Thomas      | WR   | DEN  | 262.90	|
 | Terrance Williams     | WR   | DAL  | 110.10	|
 | Travis Kelce          | TE   | KC   | 119.20  |
 | Adam Vinatieri        | K    | IND  | 153.00	|
