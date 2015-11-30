@@ -38,7 +38,7 @@ Yuengling Conference
 
 Champion - Scrambles
 -------------------
-![alt text](./images/scrambles_logo.jpg "Scrambles")
+![alt text](./images/scrambles_logo.png "Scrambles")
 
 
 
