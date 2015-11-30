@@ -63,7 +63,7 @@ Cheesesteak Conference
 
 Champion - GREEN BAY PACKERS
 ----------------------------
-
+![alt text](./images/green_bay_packers_logo.png "GREEN BAY PACKERS")
 
 
 2013 Year in review
