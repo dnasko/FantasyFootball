@@ -7,15 +7,16 @@ Contents
 ========
 
 1. [List of Fantasy Football Super Bowl Champions] (#fantasy-football-super-bowl-championship)
-2. [2015 Year in review] (#2015-year-in-review)
-3. [2014 Year in review] (#2014-year-in-review)
+2. [All-time records by owner] (#all-time-records-by-owner)
+3. [2015 Year in review] (#2015-year-in-review)
+4. [2014 Year in review] (#2014-year-in-review)
   1. [Yuengling Conference] (#yuengling-conference)
   2. [Cheesesteak Conference] (#cheesesteak-conference)
-4. [2013 Year in review] (#year-in-review)
-5. [Notes] (#notes)
+5. [2013 Year in review] (#year-in-review)
+6. [Notes] (#notes)
 
-Fantasy Football Super Bowl Championship
-========================================
+Fantasy Football Super Bowl Championships
+=========================================
 
 | Game | Date              | League                     | Winning Team          | Owner      | Score          | Losing Team   | Owner        |
 |------|-------------------|----------------------------|-----------------------|------------|----------------|---------------|--------------|
@@ -24,6 +25,24 @@ Fantasy Football Super Bowl Championship
 | III  | December 22, 2014 | Cheesesteak Conference     | **GREEN BAY PACKERS** | **Andrew** | 104.20 - 85.35 | Motor Boaters | Kevin Archer |
 | IV   | December 28, 2015 | Dick G. Yuengling's League | TBD                   | TBD        | -              | TBD           | TBD
 
+All-time records by owner
+=========================
+| Owner  | W-L   | Frac. | Postseason W-L | Frac. | # Championships |
+|--------|-------|-------|----------------|-------|-----------------|
+| Jess   | 16-23 | 0.410 | 5-1            | 0.833 | 1               |
+| Cindy  | 12-14 | 0.462 | 3-0            | 1.000 | 1               |
+| Dan    | 21-18 | 0.538 | 1-3            | 0.250 | 0               |
+| Steve  | 12-14 | 0.462 | 1-1            | 0.500 | 0               |
+| Andrew | 14-12 | 0.538 | 3-0            | 1.000 | 1               |
+| Ryan   | 14-11 | 0.560 | 3-3            | 0.500 | 0               |
+| Eric   | 12-14 | 0.462 | 1-4            | 0.200 | 0               |
+| Lauren | 15-11 | 0.577 | 1-4            | 0.200 | 0               |
+| Sam    | 22-4  | 0.846 | 3-3            | 0.500 | 0               |
+| Brian  | 17-9  | 0.654 | 2-3            | 0.400 | 0               |
+| Owen   |  5-8  | 0.385 | 2-1            | 0.667 | 0               |
+| Kevin  |  9-17 | 0.346 | 2-1            | 0.667 | 0               |
+| Josh   | 12-14 | 0.462 | 1-2            | 0.333 | 0               |
+| Randy  |  1-12 | 0.077 | -              | -     | 0               |
 
 2015 Year in review
 ===================
