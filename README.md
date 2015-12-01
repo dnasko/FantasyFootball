@@ -1,18 +1,18 @@
 Fantasy Football Archives
 =========================
 
-This humble README will act as the written archive of Fantasy Football league results. Indeed, Yahoo keeps track of this sort of thing, but because these results span different leagues I though it would be more convenient to pull them all together here.
+This humble README will act as the written archive of Fantasy Football league results. Indeed, Yahoo keeps track of this sort of thing, but because these results span different leagues I thought it would be more convenient to pull them all together here.
 
 Contents
 ========
 
-1. [List of Fantasy Football Super Bowl Champions] (#fantasy-football-super-bowl-championship)
+1. [List of Fantasy Football Super Bowl Champions] (#fantasy-football-super-bowl-championships)
 2. [All-time records by owner] (#all-time-records-by-owner)
 3. [2015 Year in review] (#2015-year-in-review)
 4. [2014 Year in review] (#2014-year-in-review)
   1. [Yuengling Conference] (#yuengling-conference)
   2. [Cheesesteak Conference] (#cheesesteak-conference)
-5. [2013 Year in review] (#year-in-review)
+5. [2013 Year in review] (#2013-year-in-review)
 6. [Notes] (#notes)
 
 Fantasy Football Super Bowl Championships
