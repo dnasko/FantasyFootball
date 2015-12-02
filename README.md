@@ -30,9 +30,9 @@ All-time records by owner
 
 | Owner  | W-L   | Frac. | Postseason W-L | Frac. | # Championships |
 |--------|-------|-------|----------------|-------|-----------------|
-| Jess   | 16-23 | 0.410 | 5-1            | 0.833 | 1               |
-| Cindy  | 12-14 | 0.462 | 3-0            | 1.000 | 1               |
-| Andrew | 14-12 | 0.538 | 3-0            | 1.000 | 1               |
+| Jess   | 16-23 | 0.410 | 5-1            | 0.833 | **1**           |
+| Cindy  | 12-14 | 0.462 | 3-0            | 1.000 | **1**           |
+| Andrew | 14-12 | 0.538 | 3-0            | 1.000 | **1**           |
 | Dan    | 21-18 | 0.538 | 1-3            | 0.250 | 0               |
 | Steve  | 12-14 | 0.462 | 1-1            | 0.500 | 0               |
 | Ryan   | 14-11 | 0.560 | 3-3            | 0.500 | 0               |
@@ -84,6 +84,24 @@ Cheesesteak Conference
 Champion - GREEN BAY PACKERS (Andrew)
 ----------------------------
 ![alt text](./images/green_bay_packers_logo.png "GREEN BAY PACKERS")
+
+| Player                | Pos. | Team | Fantasy |
+|-----------------------|------|------|---------|
+| Dwayne Allen          | TE   | IND  |  87.50  |
+| Tom Brady             | QB   | NE   | 343.15  |
+| Randall Cobb          | WR   | GB   | 217.40  |
+| Coby Fleener          | TE   | IND  | 131.40  |
+| Matt Forte            | RB   | CHI  | 256.60  |
+| Steven Jackson        | RB   | STL  | 124.50  |
+| Eddie Lacy            | RB   | GB   | 242.60  |
+| Jordy Nelson          | WR   | GB   | 253.90  |
+| Cordarrelle Patterson | WR   | MIN  |  63.10  |
+| Ben Roethlisberger    | QB   | PIT  | 397.70  |
+| Mohamed Sanu          | WR   | CIN  | 130.05  |
+| Golden Tate           | WR   | DET  | 175.10  |
+| Adam Vinatieri        | K    | IND  | 153.00  |
+| Detroit               | DEF  | DET  | 132.00  |
+| Houston               | DEF  | HOU  | 174.00  |
 
 
 2013 Year in review
