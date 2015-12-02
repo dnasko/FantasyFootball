@@ -56,8 +56,7 @@ Becasue we didn't want to have a 14-man league in 2014 we split the league into 
 Yuengling Conference
 --------------------
 
-Champion - Scrambles (Jess)
---------------------
+### Champion - Scrambles (Jess)
 ![alt text](./images/scrambles_logo.png "Scrambles")
 
 | Player                | Pos. | Team | Fantasy |
@@ -78,11 +77,16 @@ Champion - Scrambles (Jess)
 | Seattle               | DEF  | SEA  | 147.00	|
 | St. Louis             | DEF  | STL  | 153.00  |
 
+### Playoff Results
+![alt text](./images/Yuengling2014_playoffs.png "Yuengling Conference Final Playoffs")
+
+### Final Standings
+![alt text](./images/Yuengling2014_standings.png "Yuengling Conference Final Standings")
+
 Cheesesteak Conference
 ----------------------
 
-Champion - GREEN BAY PACKERS (Andrew)
-----------------------------
+### Champion - GREEN BAY PACKERS (Andrew)
 ![alt text](./images/green_bay_packers_logo.png "GREEN BAY PACKERS")
 
 | Player                | Pos. | Team | Fantasy |
@@ -103,12 +107,10 @@ Champion - GREEN BAY PACKERS (Andrew)
 | Detroit               | DEF  | DET  | 132.00  |
 | Houston               | DEF  | HOU  | 174.00  |
 
-Playoff Results
----------------
+### Playoff Results
 ![alt text](./images/Cheesesteak2014_playoffs.png "Cheesesteak Conference Final Playoffs")
 
-Final Standings
----------------
+### Final Standings
 ![alt text](./images/Cheesesteak2014_standings.png "Cheesesteak Conference Final Standings")
 
 
