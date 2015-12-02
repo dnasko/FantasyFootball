@@ -47,7 +47,7 @@ All-time records by owner
 
 2015 Year in review
 ===================
-Blah.
+Season in progress.
 
 2014 Year in review
 ===================
@@ -116,6 +116,7 @@ Cheesesteak Conference
 
 2013 Year in review
 ===================
+The inagural year of the Fantasy Football Super Bowl era saw new comers: Andrew, Cindy, Jess.
 
 Champion - Joe Buck Yourself (Cindy)
 ----------------------------
