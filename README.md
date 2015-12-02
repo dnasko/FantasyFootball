@@ -139,6 +139,14 @@ Champion - Joe Buck Yourself (Cindy)
 | Cleveland         | DEF  | CLE  | 114.00  |
 | Green Bay         | DEF  | GB   | 108.00  |
 
+Playoff Results
+---------------
+![alt text](./images/BourbonBall2013_playoffs.png "Bourbon Ball Playoffs")
+
+Final Standings
+---------------
+![alt text](./images/BourbonBall2013_standings.png "Bourbon Ball Final Standings")
+
 
 Notes
 =====
