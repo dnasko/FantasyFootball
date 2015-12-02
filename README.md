@@ -105,11 +105,11 @@ Champion - GREEN BAY PACKERS (Andrew)
 
 Playoff Results
 ---------------
-![alt text](./images/Cheesesteak2014_standings.png "Cheesesteak Conference Final Standings")
+![alt text](./images/Cheesesteak2014_playoffs.png "Cheesesteak Conference Final Playoffs")
 
 Final Standings
 ---------------
-
+![alt text](./images/Cheesesteak2014_standings.png "Cheesesteak Conference Final Standings")
 
 
 2013 Year in review
