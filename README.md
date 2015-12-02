@@ -51,7 +51,7 @@ Season in progress.
 
 2014 Year in review
 ===================
-Becasue we didn't want to have a 14-man league in 2014 we split the league into two conferences: Yuengling Conference and Cheesesteak Conference. This wasn't actually a great idea, as having 8-man leagues made getting good players too easy.
+Becasue we didn't want to have a 14-man league in 2014 we split the league into two conferences: Yuengling Conference and Cheesesteak Conference. This wasn't actually a great idea, as having 8-man leagues made getting good players too easy. Additionally it meant Jess and I were in each of the two conferences, which wasn't that great.
 
 Yuengling Conference
 --------------------
