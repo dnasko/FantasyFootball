@@ -87,21 +87,29 @@ Champion - GREEN BAY PACKERS (Andrew)
 
 | Player                | Pos. | Team | Fantasy |
 |-----------------------|------|------|---------|
-| Dwayne Allen          | TE   | IND  |  87.50  |
-| Tom Brady             | QB   | NE   | 343.15  |
-| Randall Cobb          | WR   | GB   | 217.40  |
-| Coby Fleener          | TE   | IND  | 131.40  |
-| Matt Forte            | RB   | CHI  | 256.60  |
-| Steven Jackson        | RB   | STL  | 124.50  |
-| Eddie Lacy            | RB   | GB   | 242.60  |
-| Jordy Nelson          | WR   | GB   | 253.90  |
-| Cordarrelle Patterson | WR   | MIN  |  63.10  |
 | Ben Roethlisberger    | QB   | PIT  | 397.70  |
+| Tom Brady             | QB   | NE   | 343.15  |
+| Matt Forte            | RB   | CHI  | 256.60  |
+| Eddie Lacy            | RB   | GB   | 242.60  |
+| Steven Jackson        | RB   | STL  | 124.50  |
+| Jordy Nelson          | WR   | GB   | 253.90  |
+| Randall Cobb          | WR   | GB   | 217.40  |
+| Cordarrelle Patterson | WR   | MIN  |  63.10  |
 | Mohamed Sanu          | WR   | CIN  | 130.05  |
 | Golden Tate           | WR   | DET  | 175.10  |
+| Coby Fleener          | TE   | IND  | 131.40  |
+| Dwayne Allen          | TE   | IND  |  87.50  |
 | Adam Vinatieri        | K    | IND  | 153.00  |
 | Detroit               | DEF  | DET  | 132.00  |
 | Houston               | DEF  | HOU  | 174.00  |
+
+Playoff Results
+---------------
+![alt text](./images/Cheesesteak2014_standings.png "Cheesesteak Conference Final Standings")
+
+Final Standings
+---------------
+
 
 
 2013 Year in review
