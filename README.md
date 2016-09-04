@@ -74,6 +74,8 @@ Champion - The Spectroscopussys (Nick Nack)
 ### Playoff Results
 ![alt text](./images/Yuengling2015_playoffs.png "Dick G. Yuengling League Final Playoffs")
 
+### Final Standings
+![alt text](./images/Yuengling2015_standings.png "Dick G. Yuengling League Final Standings")
 
 2014 Year in review
 ===================
