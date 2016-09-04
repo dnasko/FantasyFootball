@@ -53,6 +53,28 @@ Champion - The Spectroscopussys (Nick Nack)
 -------------------------------------------
 ![alt text](./images/spectroscopussys_logo.jpg "The Spectroscopussys")
 
+| Player                | Pos. | Team | Fantasy |
+|-----------------------|------|------|---------|
+| Russell Wilson        | QB   | SEA  | 387.5   |
+| Kirk Cousins          | QB   | WAS  | 366.1   |
+| Adrian Peterson       | RB   | MIN  | 254.7   |
+| Darren Sproles        | RB   | PHI  | 106.50  |
+| Javorius Allen        | RB   | BAL  |	103.7 	|
+| Tim Hightower         | RB   | NO   | 77.40   |
+| Brandin Cooks	        | WR   | NO   |	181.6	|
+| James Jones           | WR   | SD   |	150.0 	|
+| Ted Ginn Jr.		| WR   | CAR  | 142.9	|
+| Julian Edelman        | WR   | NE   | 114.5   |
+| DeSean Jackson        | WR   | WAS  | 77.8    |
+| Malcom Floyd          | WR   | SD   | 72.1    |
+| Jordan Cameron        | TE   | MIA  | 56.6    |
+| Adam Vinatieri        | K    | IND  | 118.0   |
+| Pittsburgh            | DEF  | PIT  | 167.0   |
+
+### Playoff Results
+![alt text](./images/Yuengling2015_playoffs.png "Dick G. Yuengling League Final Playoffs")
+
+
 2014 Year in review
 ===================
 Becasue we didn't want to have a 14-man league in 2014 we split the league into two conferences: Yuengling Conference and Cheesesteak Conference. This wasn't actually a great idea, as having 8-man leagues made getting good players too easy. Additionally it meant Jess and I were in each of the two conferences, which wasn't that great.
