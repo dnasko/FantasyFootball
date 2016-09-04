@@ -47,7 +47,11 @@ All-time records by owner
 
 2015 Year in review
 ===================
-Season in progress.
+The inagural year of the Dick G. Yuengling league. Was hastily put together the day before the first game of the season. Saw new comers: Amelia and Nick Nack.
+
+Champion - The Spectroscopussys (Nick Nack)
+-------------------------------------------
+![alt text](./images/spectroscopussys_logo.jpg "The Spectroscopussys")
 
 2014 Year in review
 ===================
