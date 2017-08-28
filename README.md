@@ -55,36 +55,51 @@ The second year of the Dick G. Yuengling league featured a return to the (far be
 
 Champion - SportsScience (Steve)
 --------------------------------
-<img src="https://github.com/dnasko/FantasyFootball/blob/master/images/sportsscience_logo.png" width="48">
-![alt text](./images/sportsscience_logo.png "SportsScience")
+<img src="https://github.com/dnasko/FantasyFootball/blob/master/images/sportsscience_logo.png" width="128">
 
-
+| Player             | Pos. | Team | Points |
+|--------------------|------|------|--------|
+| Russell Wilson     | QB   | SEA  | 330.25 |
+| Kirk Cousins       | QB   | WAS  | 386.45 |
+| Ezekiel Elliott    | RB   | DAL  | 314.40 |
+| Jordan Howard      | RB   | CHI  | 222.10 |
+| Mark Ingram        | RB   | NO   | 205.20 |
+| Tyrell Williams    | WR   | SD   | 156.90 |
+| Tyreek Hill        | WR   | KC   | 156.00 |
+| Jordan Matthews    | WR   | PHL  | 101.40 |
+| Randall Cobb       | WR   | GB   | 91.30  |
+| John Brown         | WR   | ARI  | 67.70  |
+| Kyle Rudolph       | TE   | MIN  | 129.00 |
+| Coby Fleener       | TE   | NO   | 90.30  |
+| Graham Gano        | K    | CAR  | 138.00 |
+| Cairo Santos       | K    | KC   | 134.00 |
+| Philadelphia       | DEF  | PHL  | 154.00 |
 
 2015 Season
 ===========
-The inagural year of the Dick G. Yuengling league was hastily put together the day before the first game of the season. Saw new comers: Amelia and Nick Nack.
+The inagural year of the Dick G. Yuengling league was hastily put together the day before the first game of the season. Saw new comers: Amelia and Nick Nack. It should also be noted that this year we tried a two-week championship round where the final championship game (and consulation game) spaned the last two weeks of the fantasy season. This was weird and sucked.
 
 Champion - The Spectroscopussys (Nick Nack)
 -------------------------------------------
 ![alt text](./images/spectroscopussys_logo.jpg "The Spectroscopussys")
 
-| Player                | Pos. | Team | Fantasy |
-|-----------------------|------|------|---------|
-| Russell Wilson        | QB   | SEA  | 387.5   |
-| Kirk Cousins          | QB   | WAS  | 366.1   |
-| Adrian Peterson       | RB   | MIN  | 254.7   |
-| Darren Sproles        | RB   | PHI  | 106.50  |
-| Javorius Allen        | RB   | BAL  |	103.7 	|
-| Tim Hightower         | RB   | NO   | 77.40   |
-| Brandin Cooks	        | WR   | NO   |	181.6	|
-| James Jones           | WR   | SD   |	150.0 	|
-| Ted Ginn Jr.		| WR   | CAR  | 142.9	|
-| Julian Edelman        | WR   | NE   | 114.5   |
-| DeSean Jackson        | WR   | WAS  | 77.8    |
-| Malcom Floyd          | WR   | SD   | 72.1    |
-| Jordan Cameron        | TE   | MIA  | 56.6    |
-| Adam Vinatieri        | K    | IND  | 118.0   |
-| Pittsburgh            | DEF  | PIT  | 167.0   |
+| Player                | Pos. | Team | Points |
+|-----------------------|------|------|--------|
+| Russell Wilson        | QB   | SEA  | 387.5  |
+| Kirk Cousins          | QB   | WAS  | 366.1  |
+| Adrian Peterson       | RB   | MIN  | 254.7  |
+| Darren Sproles        | RB   | PHI  | 106.50 |
+| Javorius Allen        | RB   | BAL  |	103.7  |
+| Tim Hightower         | RB   | NO   | 77.40  |
+| Brandin Cooks	        | WR   | NO   |	181.6  |
+| James Jones           | WR   | SD   |	150.0  |
+| Ted Ginn Jr.   		| WR   | CAR  | 142.9  |
+| Julian Edelman        | WR   | NE   | 114.5  |
+| DeSean Jackson        | WR   | WAS  | 77.8   |
+| Malcom Floyd          | WR   | SD   | 72.1   |
+| Jordan Cameron        | TE   | MIA  | 56.6   |
+| Adam Vinatieri        | K    | IND  | 118.0  |
+| Pittsburgh            | DEF  | PIT  | 167.0  |
 
 ### Playoff Results
 ![alt text](./images/Yuengling2015_playoffs.png "Dick G. Yuengling League Final Playoffs")
@@ -102,23 +117,23 @@ Yuengling Conference
 ### Champion - Scrambles (Jess)
 ![alt text](./images/scrambles_logo.png "Scrambles")
 
-| Player                | Pos. | Team | Fantasy |
-|-----------------------|------|------|---------|
-| Matt Ryan             | QB   | ATL  | 366.20	|
-| Matt Asiata           | RB   | MIN  | 150.20  |
-| Eddie Lacy            | RB   | GB   | 242.60  |
-| Joique Bell           | RB   | DET  | 164.20  |
-| Giovani Bernard       | RB   | CIN  | 147.90	|
-| Trent Richardson      | RB   | IND  |  90.80	|
-| Demaryius Thomas      | WR   | DEN  | 262.90  |
-| Anquan Boldin         | WR   | SF   | 139.60	|
-| Alshon Jeffery        | WR   | CHI  | 185.60	|
-| Cordarrelle Patterson | WR   | MIN  |  63.10	|
-| Terrance Williams     | WR   | DAL  | 110.10	|
-| Travis Kelce          | TE   | KC   | 119.20  |
-| Adam Vinatieri        | K    | IND  | 153.00	|
-| Seattle               | DEF  | SEA  | 147.00	|
-| St. Louis             | DEF  | STL  | 153.00  |
+| Player                | Pos. | Team | Points |
+|-----------------------|------|------|--------|
+| Matt Ryan             | QB   | ATL  | 366.20 |
+| Matt Asiata           | RB   | MIN  | 150.20 |
+| Eddie Lacy            | RB   | GB   | 242.60 |
+| Joique Bell           | RB   | DET  | 164.20 |
+| Giovani Bernard       | RB   | CIN  | 147.90 |
+| Trent Richardson      | RB   | IND  |  90.80 |
+| Demaryius Thomas      | WR   | DEN  | 262.90 |
+| Anquan Boldin         | WR   | SF   | 139.60 |
+| Alshon Jeffery        | WR   | CHI  | 185.60 |
+| Cordarrelle Patterson | WR   | MIN  |  63.10 |
+| Terrance Williams     | WR   | DAL  | 110.10 |
+| Travis Kelce          | TE   | KC   | 119.20 |
+| Adam Vinatieri        | K    | IND  | 153.00 |
+| Seattle               | DEF  | SEA  | 147.00 |
+| St. Louis             | DEF  | STL  | 153.00 |
 
 ### Playoff Results
 ![alt text](./images/Yuengling2014_playoffs.png "Yuengling Conference Final Playoffs")
@@ -132,23 +147,23 @@ Cheesesteak Conference
 ### Champion - GREEN BAY PACKERS (Andrew)
 ![alt text](./images/green_bay_packers_logo.png "GREEN BAY PACKERS")
 
-| Player                | Pos. | Team | Fantasy |
-|-----------------------|------|------|---------|
-| Ben Roethlisberger    | QB   | PIT  | 397.70  |
-| Tom Brady             | QB   | NE   | 343.15  |
-| Matt Forte            | RB   | CHI  | 256.60  |
-| Eddie Lacy            | RB   | GB   | 242.60  |
-| Steven Jackson        | RB   | STL  | 124.50  |
-| Jordy Nelson          | WR   | GB   | 253.90  |
-| Randall Cobb          | WR   | GB   | 217.40  |
-| Cordarrelle Patterson | WR   | MIN  |  63.10  |
-| Mohamed Sanu          | WR   | CIN  | 130.05  |
-| Golden Tate           | WR   | DET  | 175.10  |
-| Coby Fleener          | TE   | IND  | 131.40  |
-| Dwayne Allen          | TE   | IND  |  87.50  |
-| Adam Vinatieri        | K    | IND  | 153.00  |
-| Detroit               | DEF  | DET  | 132.00  |
-| Houston               | DEF  | HOU  | 174.00  |
+| Player                | Pos. | Team | Points |
+|-----------------------|------|------|--------|
+| Ben Roethlisberger    | QB   | PIT  | 397.70 |
+| Tom Brady             | QB   | NE   | 343.15 |
+| Matt Forte            | RB   | CHI  | 256.60 |
+| Eddie Lacy            | RB   | GB   | 242.60 |
+| Steven Jackson        | RB   | STL  | 124.50 |
+| Jordy Nelson          | WR   | GB   | 253.90 |
+| Randall Cobb          | WR   | GB   | 217.40 |
+| Cordarrelle Patterson | WR   | MIN  |  63.10 |
+| Mohamed Sanu          | WR   | CIN  | 130.05 |
+| Golden Tate           | WR   | DET  | 175.10 |
+| Coby Fleener          | TE   | IND  | 131.40 |
+| Dwayne Allen          | TE   | IND  |  87.50 |
+| Adam Vinatieri        | K    | IND  | 153.00 |
+| Detroit               | DEF  | DET  | 132.00 |
+| Houston               | DEF  | HOU  | 174.00 |
 
 ### Playoff Results
 ![alt text](./images/Cheesesteak2014_playoffs.png "Cheesesteak Conference Final Playoffs")
@@ -165,23 +180,23 @@ Champion - Joe Buck Yourself (Cindy)
 ----------------------------
 ![alt text](./images/joe_buck_yourself_logo.jpg "Joe Buck Yourself")
 
-| Player            | Pos. | Team | Fantasy |
-|-------------------|------|------|---------|
-| Matthew Stafford  | QB   | DET  | 365.40  |
-| Nick Foles        | QB   | PHL  | 303.05  |
-| Matt Forte        | RB   | CHI  | 278.30  |
-| DeMarco Murray    | RB   | DAL  | 214.40  |
-| Darren Sproles    | RB   | NO   | 105.40  |
-| Dez Bryant        | WR   | DAL  | 211.40  |
-| Eric Decker       | WR   | DEN  | 207.80  |
-| Brian Hartline    | WR   | MIA  | 131.60  |
-| Alshon Jeffery    | WR   | CHI  | 215.60  |
-| Roddy White       | WR   | ATL  |  93.10  |
-| Charles Clay      | TE   | MIA  | 122.40  |
-| Dan Carpenter     | K    | BUF  | 148.00  |
-| Stephen Gostokski | K    | NE   | 177.00  |
-| Cleveland         | DEF  | CLE  | 114.00  |
-| Green Bay         | DEF  | GB   | 108.00  |
+| Player            | Pos. | Team | Points |
+|-------------------|------|------|--------|
+| Matthew Stafford  | QB   | DET  | 365.40 |
+| Nick Foles        | QB   | PHL  | 303.05 |
+| Matt Forte        | RB   | CHI  | 278.30 |
+| DeMarco Murray    | RB   | DAL  | 214.40 |
+| Darren Sproles    | RB   | NO   | 105.40 |
+| Dez Bryant        | WR   | DAL  | 211.40 |
+| Eric Decker       | WR   | DEN  | 207.80 |
+| Brian Hartline    | WR   | MIA  | 131.60 |
+| Alshon Jeffery    | WR   | CHI  | 215.60 |
+| Roddy White       | WR   | ATL  |  93.10 |
+| Charles Clay      | TE   | MIA  | 122.40 |
+| Dan Carpenter     | K    | BUF  | 148.00 |
+| Stephen Gostokski | K    | NE   | 177.00 |
+| Cleveland         | DEF  | CLE  | 114.00 |
+| Green Bay         | DEF  | GB   | 108.00 |
 
 Playoff Results
 ---------------
