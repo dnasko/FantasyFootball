@@ -75,6 +75,12 @@ Champion - SportsScience (Steve)
 | Cairo Santos       | K    | KC   | 134.00 |
 | Philadelphia       | DEF  | PHL  | 154.00 |
 
+### Playoff Results
+![alt text](./images/2016_playoffs.png "Dick G. Yuengling League Final Playoffs")
+
+### Final Standings
+![alt text](./images/2016_standings.png "Dick G. Yuengling League Final Standings")
+
 2015 Season
 ===========
 The inagural year of the Dick G. Yuengling league was hastily put together the day before the first game of the season. Saw new comers: Amelia and Nick Nack. It should also be noted that this year we tried a two-week championship round where the final championship game (and consulation game) spaned the last two weeks of the fantasy season. This was weird and sucked.
