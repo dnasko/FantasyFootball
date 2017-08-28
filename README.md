@@ -11,8 +11,8 @@ Contents
 3. [2016 Season](#2016-season)
 4. [2015 Season](#2015-season)
 5. [2014 Season](#2014-season)
-  1. [Yuengling Conference](#yuengling-conference)
-  2. [Cheesesteak Conference](#cheesesteak-conference)
+    1. [Yuengling Conference](#yuengling-conference)
+    2. [Cheesesteak Conference](#cheesesteak-conference)
 6. [2013 Season](#2013-season)
 7. [Notes](#notes)
 
