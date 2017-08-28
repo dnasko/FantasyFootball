@@ -19,13 +19,13 @@ Contents
 Fantasy Football Super Bowl Championships
 =========================================
 
-| Game | Date              | League                     | Winning Team              | Owner        | Score           | Losing Team   | Owner        |
-|------|-------------------|----------------------------|---------------------------|--------------|-----------------|---------------|--------------|
-| I    | December 23, 2013 | The Bourbon Ball League    | **Joe Buck Yourself**     | **Cindy**    | 114.90 - 83.95  | El Chopacabra | Jess         |
-| II   | December 22, 2014 | Yuengling Conference       | **Scrambles**             | **Jess**     |  91.80 - 89.35  | GRYFFINDOR    | Sam Widmayer |
-| III  | December 22, 2014 | Cheesesteak Conference     | **GREEN BAY PACKERS**     | **Andrew**   | 104.20 - 85.35  | Motor Boaters | Kevin Archer |
-| IV   | December 28, 2015 | Dick G. Yuengling's League | **The Spectroscopussys**  | **Nick Nak** | 220.50 - 201.95 | Amelia's Team | Amelia       |
-| V    | December 26, 2016 | Dick G. Yuengling's League | **SportsScience**         | **Steve**    | 133.50 - 121.00 | Br&#228;u Brahs | Dan        |
+| Championship | Date              | League                     | Winning Team              | Owner        | Score           | Losing Team   | Owner        |
+|--------------|-------------------|----------------------------|---------------------------|--------------|-----------------|---------------|--------------|
+| I            | December 23, 2013 | The Bourbon Ball League    | **Joe Buck Yourself**     | **Cindy**    | 114.90 - 83.95  | El Chopacabra | Jess         |
+| II           | December 22, 2014 | Yuengling Conference       | **Scrambles**             | **Jess**     |  91.80 - 89.35  | GRYFFINDOR    | Sam Widmayer |
+| III          | December 22, 2014 | Cheesesteak Conference     | **GREEN BAY PACKERS**     | **Andrew**   | 104.20 - 85.35  | Motor Boaters | Kevin Archer |
+| IV           | December 28, 2015 | Dick G. Yuengling's League | **The Spectroscopussys**  | **Nick Nak** | 220.50 - 201.95 | Amelia's Team | Amelia       |
+| V            | December 26, 2016 | Dick G. Yuengling's League | **SportsScience**         | **Steve**    | 133.50 - 121.00 | Br&#228;u Brahs | Dan        |
 
 All-time records by owner
 =========================
@@ -43,15 +43,25 @@ All-time records by owner
 | Lauren    | 19-19 | 0.500 | 1-4            | 0.200 | 0               |
 | Brian     | 17-9  | 0.654 | 2-3            | 0.400 | 0               |
 | Kevin     |  9-17 | 0.346 | 2-1            | 0.667 | 0               |
-| Amelia    |  7-5  | 0.583 | 2-1            | 0.667 | 0               |  
+| Amelia    |  7-5  | 0.583 | 2-1            | 0.667 | 0               |
 | Sam       | 22-4  | 0.846 | 3-3            | 0.500 | 0               |
 | Owen      |  5-8  | 0.385 | 2-1            | 0.667 | 0               |
 | Josh      | 12-14 | 0.462 | 1-2            | 0.333 | 0               |
 | Randy     |  1-12 | 0.077 | -              | -     | 0               |
 
-2015 Year in review
-===================
-The inagural year of the Dick G. Yuengling league. Was hastily put together the day before the first game of the season. Saw new comers: Amelia and Nick Nack.
+2016 Season
+===========
+The second year of the Dick G. Yuengling league featured a return to the (far better) one-week championship game format. Also, for the first time, we retained the same league with all of the same owners.
+
+Champion - SportsScience (Steve)
+--------------------------------
+![alt text](./images/sportsscience_logo.png "SportsScience")
+
+
+
+2015 Season
+===========
+The inagural year of the Dick G. Yuengling league was hastily put together the day before the first game of the season. Saw new comers: Amelia and Nick Nack.
 
 Champion - The Spectroscopussys (Nick Nack)
 -------------------------------------------
