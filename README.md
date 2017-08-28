@@ -10,10 +10,10 @@ Contents
 2. [All-time records by owner](#all-time-records-by-owner)
 3. [2016 Season](#2016-season)
 4. [2015 Season](#2015-season)
-5. [2014 Year in review](#2014-year-in-review)
+5. [2014 Season](#2014-season)
   1. [Yuengling Conference](#yuengling-conference)
   2. [Cheesesteak Conference](#cheesesteak-conference)
-6. [2013 Year in review](#2013-year-in-review)
+6. [2013 Season](#2013-season)
 7. [Notes](#notes)
 
 Fantasy Football Super Bowl Championships
@@ -51,7 +51,7 @@ All-time records by owner
 
 2016 Season
 ===========
-The second year of the Dick G. Yuengling league featured a return to the (far better) one-week championship game format. Also, for the first time, we retained the same league with all of the same owners.
+The second year of the Dick G. Yuengling league featured a return to the (far better) one-week championship game format. Also, for the first time, we retained the same league with all of the same owners. ALSO, this marks the second year in a row that the QB combo of Russell Wilson and Captain Kirk Cousins guided a team through the championship. Incredible.
 
 Champion - SportsScience (Steve)
 --------------------------------
@@ -107,9 +107,9 @@ Champion - The Spectroscopussys (Nick Nack)
 ### Final Standings
 ![alt text](./images/Yuengling2015_standings.png "Dick G. Yuengling League Final Standings")
 
-2014 Year in review
+2014 Season
 ===================
-Becasue we didn't want to have a 14-man league in 2014 we split the league into two conferences: Yuengling Conference and Cheesesteak Conference. This wasn't actually a great idea, as having 8-man leagues made getting good players too easy. Additionally it meant Jess and I were in each of the two conferences, which wasn't that great.
+Becasue we didn't want to have a 14-man league in 2014 we split the league into two conferences: Yuengling Conference and Cheesesteak Conference. This wasn't actually a great idea, as having 8-man leagues made getting good players too easy. Additionally it meant Jess and I were in each of the two conferences, which wasn't fun.
 
 Yuengling Conference
 --------------------
@@ -172,7 +172,7 @@ Cheesesteak Conference
 ![alt text](./images/Cheesesteak2014_standings.png "Cheesesteak Conference Final Standings")
 
 
-2013 Year in review
+2013 Season
 ===================
 The inagural year of the Fantasy Football Super Bowl era saw new comers: Andrew, Cindy, Jess.
 
