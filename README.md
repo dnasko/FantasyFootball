@@ -8,8 +8,8 @@ Contents
 
 1. [List of Fantasy Football Super Bowl Champions](#fantasy-football-super-bowl-championships)
 2. [All-time records by owner](#all-time-records-by-owner)
-3. [2016 Year in review](#2016-year-in-review)
-4. [2015 Year in review](#2015-year-in-review)
+3. [2016 Season](#2016-season)
+4. [2015 Season](#2015-season)
 5. [2014 Year in review](#2014-year-in-review)
   1. [Yuengling Conference](#yuengling-conference)
   2. [Cheesesteak Conference](#cheesesteak-conference)
@@ -55,6 +55,7 @@ The second year of the Dick G. Yuengling league featured a return to the (far be
 
 Champion - SportsScience (Steve)
 --------------------------------
+<img src="https://github.com/dnasko/FantasyFootball/blob/master/images/sportsscience_logo.png" width="48">
 ![alt text](./images/sportsscience_logo.png "SportsScience")
 
 
